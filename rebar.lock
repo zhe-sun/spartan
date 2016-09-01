@@ -4,7 +4,7 @@
   2},
  {<<"amqp_client">>,
   {git,"https://github.com/jbrisbin/amqp_client.git",
-       {ref,"0878abe6b40cc202b35d86fae32698598c022f0d"}},
+       {ref,"d50aec00b94f0766a048b4eceaf25ddfdeeb1d86"}},
   1},
  {<<"base32">>,
   {git,"https://github.com/aetrion/base32_erlang.git",
