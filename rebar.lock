@@ -3,7 +3,7 @@
        {ref,"37611258f5446a578391c23def6ca4565c4c67e7"}},
   2},
  {<<"amqp_client">>,
-  {git,"git://github.com/jbrisbin/amqp_client.git",
+  {git,"https://github.com/jbrisbin/amqp_client.git",
        {ref,"0878abe6b40cc202b35d86fae32698598c022f0d"}},
   1},
  {<<"base32">>,
