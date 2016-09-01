@@ -44,6 +44,9 @@ ct:
 ##
 
 rel:
+	chmod +x ${REBAR}
+	mkdir -p ~/.config/rebar3/
+	echo '{plugins, [rebar3_hex]}.' > ~/.config/rebar3/rebar.config
 	${REBAR} as prod release
 
 stage:
